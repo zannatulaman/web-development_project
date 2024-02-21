@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-link{
+   color: aliceblue !important;
+}
+
+.mb-3 {
+   width: 50%;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .mb-3 {
+        width: 100%;
+    }
+}
